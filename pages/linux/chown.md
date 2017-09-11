@@ -1,6 +1,6 @@
 # chown
 
-> change file owner and group. Chown changes file or group ownership and has the option to change ownership of all objects within a directory tree, as well as having the ability to view information on objects processed.
+> Change file owner and group. Chown changes file or group ownership and has the option to change ownership of all objects within a directory tree, as well as having the ability to view information on objects processed.
 
 - To change the owner of a file:
 
